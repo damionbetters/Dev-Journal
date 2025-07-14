@@ -2,6 +2,7 @@
 
 ### 🧠 What I Learned
 - Concepts, tools, “aha” moments
+Today, the goal was to render one food element for each object, in the imported FoodData array by using .map(). Doing so will create a new array with new food components that will have the current food object using props.
 
 ### 🛠️ What I Built
 - Features added, bugs fixed
