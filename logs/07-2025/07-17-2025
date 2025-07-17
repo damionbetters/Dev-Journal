@@ -1,0 +1,23 @@
+## 📅 July 17, 2025
+
+### 🧠 What I Learned
+Today was amazing, it was kind of a life upgrade day, albeit very little coding occured. Jonas focued on extracting 
+JSX code into new slef-containing components. And he wanted us to bascially structure projects. Kind of how I 
+did back in my logic course, with flowcharts and psuedo-code. Which, if you all remember doing that, can take forever,
+but is kinda worth.
+
+### 🛠️ What I Built
+- Bascially changed my footer around to have a new Open component.
+
+### 🧨 What Confused Me
+- Nothing
+
+### ✅ How I Solved It / What I Realized
+- I realized that building components in JSX is just like building modules in like Python or C++. If you keep
+each component (module/function) to doing one task, it makes it easier to debugg, test, and upkeep the code.
+
+### 📌 Next Up
+- Tomorrow is Friday. All, I want to do is to lay-out my vlog outline before the Sabbath hits. I believe I can
+do that fairly easy, it should take too long. If I end up with extra time, I am planning on watching some videos 
+about how to edit videos. Because, in addition to this Dev-Journal, I will be starting a "my dev journey" kind of
+YouTube page that just allows me to talk dev things. If that goes well, it may be another source of income as well.
